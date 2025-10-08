@@ -47,5 +47,4 @@ int main()
 	std::cout << "bool " << std::numeric_limits<bool>::lowest() << ' ' << std::numeric_limits<bool>::max() << ' ' << b + b << std::endl;
 	std::cout << b + ld << std::endl;
 	return 0;
-
 }
